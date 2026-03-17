@@ -1,1 +1,1 @@
-
+vless://7554bb1a-8cc6-4678-a115-7b1184029451@144.31.143.9:443?type=tcp&encryption=none&security=reality&pbk=My6f2HU4sSZHO7edf_t-wpVmAOA0iIaVXkZsAmIrd0A&fp=firefox&sni=yandex.ru&sid=87edc14e6e7f&spx=%2F&flow=xtls-rprx-vision#Vless-Reality-f46h2os4o
